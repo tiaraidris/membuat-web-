@@ -1,0 +1,4 @@
+Pastikan Node.js telah terinstal di komputer Anda.
+Buat folder proyek baru dan masuk ke dalamnya di terminal Anda.
+Jalankan npm init untuk membuat file package.json yang menyimpan informasi tentang proyek Anda.
+Instal modul-modul yang diperlukan seperti express, mysql, dan body-parser dengan perintah npm install express mysql body-parser.
